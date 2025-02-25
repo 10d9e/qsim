@@ -70,13 +70,13 @@ quantum-circuit-simulator/
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/<your-username>/quantum-circuit-simulator.git
+   git clone https://github.com/109de/qsim.git
    ```
    or download and extract the ZIP file.
 
 2. **Navigate** into the project directory:
    ```bash
-   cd quantum-circuit-simulator
+   cd qsim
    ```
 
 3. **Build** with Cargo:
